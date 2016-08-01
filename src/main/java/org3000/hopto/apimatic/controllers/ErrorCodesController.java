@@ -68,7 +68,7 @@ public class ErrorCodesController extends BaseController {
 
         //load all headers for the outgoing API request
         Map<String, String> _headers = new HashMap<String, String>() {
-            private static final long serialVersionUID = 5679544795348254392L;
+            private static final long serialVersionUID = 4892095104352677444L;
             {
                     put( "user-agent", "Stamplay SDK" );
                     put( "accept", "application/json" );
@@ -162,7 +162,7 @@ public class ErrorCodesController extends BaseController {
 
         //load all headers for the outgoing API request
         Map<String, String> _headers = new HashMap<String, String>() {
-            private static final long serialVersionUID = 4795553421575674951L;
+            private static final long serialVersionUID = 5158933304002444748L;
             {
                     put( "user-agent", "Stamplay SDK" );
                     put( "accept", "application/json" );

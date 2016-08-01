@@ -75,7 +75,7 @@ public class TemplateParamsController extends BaseController {
 
         //process template parameters
         APIHelper.appendUrlWithTemplateParameters(_queryBuilder, new HashMap<String, Object>() {
-            private static final long serialVersionUID = 5035300825413775138L;
+            private static final long serialVersionUID = 5272769452261716218L;
             {
                     put( "strings", strings );
             }});
@@ -84,7 +84,7 @@ public class TemplateParamsController extends BaseController {
 
         //load all headers for the outgoing API request
         Map<String, String> _headers = new HashMap<String, String>() {
-            private static final long serialVersionUID = 5059160320770314325L;
+            private static final long serialVersionUID = 5514789942466637808L;
             {
                     put( "user-agent", "Stamplay SDK" );
                     put( "accept", "application/json" );
@@ -190,7 +190,7 @@ public class TemplateParamsController extends BaseController {
 
         //process template parameters
         APIHelper.appendUrlWithTemplateParameters(_queryBuilder, new HashMap<String, Object>() {
-            private static final long serialVersionUID = 5147773631455731365L;
+            private static final long serialVersionUID = 5171116062716249534L;
             {
                     put( "integers", integers );
             }});
@@ -199,7 +199,7 @@ public class TemplateParamsController extends BaseController {
 
         //load all headers for the outgoing API request
         Map<String, String> _headers = new HashMap<String, String>() {
-            private static final long serialVersionUID = 5742089583744393654L;
+            private static final long serialVersionUID = 5377671363981234088L;
             {
                     put( "user-agent", "Stamplay SDK" );
                     put( "accept", "application/json" );

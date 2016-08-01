@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class Employee 
         extends Person {
-    private static final long serialVersionUID = 4870011777797687239L;
+    private static final long serialVersionUID = 5122432941100977589L;
     private Person boss;
     private String department;
     private List<Person> dependents;

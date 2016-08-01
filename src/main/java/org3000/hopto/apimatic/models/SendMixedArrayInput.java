@@ -12,7 +12,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class SendMixedArrayInput 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5574206085614319442L;
+    private static final long serialVersionUID = 5211620514176747416L;
     private File file;
     private List<Integer> integers;
     private List<Employee> models;

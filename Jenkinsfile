@@ -4,9 +4,6 @@ node {
     
     stage 'Build' 
         bat 'mvn install -DskipTests=true Dmaven.javadoc.skip=true -B -V' 
-    if(projectSettings.HasTests())
-    {
-    stage 'Test' 
+        stage 'Test' 
         bat 'mvn test' 
     }
-}
