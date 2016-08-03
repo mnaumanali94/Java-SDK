@@ -1,7 +1,7 @@
 /*
  * TesterLib
  *
- * This file was automatically generated for Stamplay by APIMATIC v2.0 ( https://apimatic.io ) on 08/01/2016
+ * This file was automatically generated for Stamplay by APIMATIC v2.0 ( https://apimatic.io ) on 08/03/2016
  */
 package org3000.hopto.apimatic.models;
 
@@ -12,7 +12,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class SendMixedArrayInput 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5211620514176747416L;
+    private static final long serialVersionUID = 4661967307993835305L;
     private File file;
     private List<Integer> integers;
     private List<Employee> models;

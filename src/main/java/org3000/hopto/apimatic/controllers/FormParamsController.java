@@ -1,7 +1,7 @@
 /*
  * TesterLib
  *
- * This file was automatically generated for Stamplay by APIMATIC v2.0 ( https://apimatic.io ) on 08/01/2016
+ * This file was automatically generated for Stamplay by APIMATIC v2.0 ( https://apimatic.io ) on 08/03/2016
  */
 package org3000.hopto.apimatic.controllers;
 
@@ -73,7 +73,7 @@ public class FormParamsController extends BaseController {
 
         //load all headers for the outgoing API request
         Map<String, String> _headers = new HashMap<String, String>() {
-            private static final long serialVersionUID = 5505485472291718535L;
+            private static final long serialVersionUID = 5443989402833151868L;
             {
                     put( "user-agent", "Stamplay SDK" );
                     put( "accept", "application/json" );
@@ -82,7 +82,7 @@ public class FormParamsController extends BaseController {
 
         //load all fields for the outgoing API request
         Map<String, Object> _parameters = new HashMap<String, Object>() {
-            private static final long serialVersionUID = 5583110736719489182L;
+            private static final long serialVersionUID = 4690985706487363876L;
             {
                     put( "value", value );
             }
@@ -187,7 +187,7 @@ public class FormParamsController extends BaseController {
 
         //process query parameters
         APIHelper.appendUrlWithQueryParameters(_queryBuilder, new HashMap<String, Object>() {
-            private static final long serialVersionUID = 5428205193531666147L;
+            private static final long serialVersionUID = 5427899314039118366L;
             {
                     put( "array", "true" );
             }});
@@ -196,7 +196,7 @@ public class FormParamsController extends BaseController {
 
         //load all headers for the outgoing API request
         Map<String, String> _headers = new HashMap<String, String>() {
-            private static final long serialVersionUID = 4709613075162460528L;
+            private static final long serialVersionUID = 4888589182639196238L;
             {
                     put( "user-agent", "Stamplay SDK" );
                     put( "accept", "application/json" );
@@ -205,7 +205,7 @@ public class FormParamsController extends BaseController {
 
         //load all fields for the outgoing API request
         Map<String, Object> _parameters = new HashMap<String, Object>() {
-            private static final long serialVersionUID = 5590834649738886562L;
+            private static final long serialVersionUID = 5392920678307743271L;
             {
                     put( "integers", integers );
             }
@@ -310,7 +310,7 @@ public class FormParamsController extends BaseController {
 
         //process query parameters
         APIHelper.appendUrlWithQueryParameters(_queryBuilder, new HashMap<String, Object>() {
-            private static final long serialVersionUID = 5474729192901175731L;
+            private static final long serialVersionUID = 5645785429322468726L;
             {
                     put( "array", "true" );
             }});
@@ -319,7 +319,7 @@ public class FormParamsController extends BaseController {
 
         //load all headers for the outgoing API request
         Map<String, String> _headers = new HashMap<String, String>() {
-            private static final long serialVersionUID = 5269553112927476195L;
+            private static final long serialVersionUID = 5535908954139189888L;
             {
                     put( "user-agent", "Stamplay SDK" );
                     put( "accept", "application/json" );
@@ -328,7 +328,7 @@ public class FormParamsController extends BaseController {
 
         //load all fields for the outgoing API request
         Map<String, Object> _parameters = new HashMap<String, Object>() {
-            private static final long serialVersionUID = 5482870430452626227L;
+            private static final long serialVersionUID = 4709363113561525325L;
             {
                     put( "strings", strings );
             }
@@ -435,7 +435,7 @@ public class FormParamsController extends BaseController {
 
         //load all headers for the outgoing API request
         Map<String, String> _headers = new HashMap<String, String>() {
-            private static final long serialVersionUID = 5490637481986345720L;
+            private static final long serialVersionUID = 4987036536610726940L;
             {
                     put( "user-agent", "Stamplay SDK" );
                     put( "accept", "application/json" );
@@ -444,7 +444,7 @@ public class FormParamsController extends BaseController {
 
         //load all fields for the outgoing API request
         Map<String, Object> _parameters = new HashMap<String, Object>() {
-            private static final long serialVersionUID = 4929068446249444027L;
+            private static final long serialVersionUID = 5584765766753518605L;
             {
                     put( "model", model );
             }
@@ -549,7 +549,7 @@ public class FormParamsController extends BaseController {
 
         //process query parameters
         APIHelper.appendUrlWithQueryParameters(_queryBuilder, new HashMap<String, Object>() {
-            private static final long serialVersionUID = 5674251672029690726L;
+            private static final long serialVersionUID = 5254912900658073102L;
             {
                     put( "array", "true" );
             }});
@@ -558,7 +558,7 @@ public class FormParamsController extends BaseController {
 
         //load all headers for the outgoing API request
         Map<String, String> _headers = new HashMap<String, String>() {
-            private static final long serialVersionUID = 4826365607951311462L;
+            private static final long serialVersionUID = 5109494002959708727L;
             {
                     put( "user-agent", "Stamplay SDK" );
                     put( "accept", "application/json" );
@@ -567,7 +567,7 @@ public class FormParamsController extends BaseController {
 
         //load all fields for the outgoing API request
         Map<String, Object> _parameters = new HashMap<String, Object>() {
-            private static final long serialVersionUID = 5337780754187258387L;
+            private static final long serialVersionUID = 5116644619107982741L;
             {
                     put( "models", models );
             }
@@ -674,7 +674,7 @@ public class FormParamsController extends BaseController {
 
         //load all headers for the outgoing API request
         Map<String, String> _headers = new HashMap<String, String>() {
-            private static final long serialVersionUID = 4677287981045125965L;
+            private static final long serialVersionUID = 5124362742332867250L;
             {
                     put( "user-agent", "Stamplay SDK" );
                     put( "accept", "application/json" );
@@ -683,7 +683,7 @@ public class FormParamsController extends BaseController {
 
         //load all fields for the outgoing API request
         Map<String, Object> _parameters = new HashMap<String, Object>() {
-            private static final long serialVersionUID = 5688880371946239380L;
+            private static final long serialVersionUID = 5011744774749928927L;
             {
                     put( "file", file );
             }
@@ -799,7 +799,7 @@ public class FormParamsController extends BaseController {
 
         //load all headers for the outgoing API request
         Map<String, String> _headers = new HashMap<String, String>() {
-            private static final long serialVersionUID = 4745865896524852158L;
+            private static final long serialVersionUID = 5567201047035778719L;
             {
                     put( "user-agent", "Stamplay SDK" );
                     put( "accept", "application/json" );
@@ -808,7 +808,7 @@ public class FormParamsController extends BaseController {
 
         //load all fields for the outgoing API request
         Map<String, Object> _parameters = new HashMap<String, Object>() {
-            private static final long serialVersionUID = 4673859066241420088L;
+            private static final long serialVersionUID = 5642058909745283418L;
             {
                     put( "file", input.getFile() );
                     put( "integers", input.getIntegers() );
@@ -918,7 +918,7 @@ public class FormParamsController extends BaseController {
 
         //load all headers for the outgoing API request
         Map<String, String> _headers = new HashMap<String, String>() {
-            private static final long serialVersionUID = 5639408845857818477L;
+            private static final long serialVersionUID = 5061598701795476918L;
             {
                     put( "user-agent", "Stamplay SDK" );
                     put( "accept", "application/json" );
@@ -927,7 +927,7 @@ public class FormParamsController extends BaseController {
 
         //load all fields for the outgoing API request
         Map<String, Object> _parameters = new HashMap<String, Object>() {
-            private static final long serialVersionUID = 5305818803173727661L;
+            private static final long serialVersionUID = 5066437520177347057L;
             {
                     put( "value", value );
             }
@@ -1032,7 +1032,7 @@ public class FormParamsController extends BaseController {
 
         //process query parameters
         APIHelper.appendUrlWithQueryParameters(_queryBuilder, new HashMap<String, Object>() {
-            private static final long serialVersionUID = 5060586036506001927L;
+            private static final long serialVersionUID = 5082952624445362069L;
             {
                     put( "array", "true" );
             }});
@@ -1041,7 +1041,7 @@ public class FormParamsController extends BaseController {
 
         //load all headers for the outgoing API request
         Map<String, String> _headers = new HashMap<String, String>() {
-            private static final long serialVersionUID = 5215183043933599978L;
+            private static final long serialVersionUID = 5261637489795280624L;
             {
                     put( "user-agent", "Stamplay SDK" );
                     put( "accept", "application/json" );
@@ -1050,7 +1050,7 @@ public class FormParamsController extends BaseController {
 
         //load all fields for the outgoing API request
         Map<String, Object> _parameters = new HashMap<String, Object>() {
-            private static final long serialVersionUID = 4947504500168369323L;
+            private static final long serialVersionUID = 5187956158234164308L;
             {
                     put( "suites", SuiteCode.toValue(suites) );
             }
@@ -1155,7 +1155,7 @@ public class FormParamsController extends BaseController {
 
         //process query parameters
         APIHelper.appendUrlWithQueryParameters(_queryBuilder, new HashMap<String, Object>() {
-            private static final long serialVersionUID = 5061854389595229615L;
+            private static final long serialVersionUID = 5364819053872855817L;
             {
                     put( "array", "true" );
             }});
@@ -1164,7 +1164,7 @@ public class FormParamsController extends BaseController {
 
         //load all headers for the outgoing API request
         Map<String, String> _headers = new HashMap<String, String>() {
-            private static final long serialVersionUID = 5354873309743684632L;
+            private static final long serialVersionUID = 5424271327743789330L;
             {
                     put( "user-agent", "Stamplay SDK" );
                     put( "accept", "application/json" );
@@ -1173,7 +1173,7 @@ public class FormParamsController extends BaseController {
 
         //load all fields for the outgoing API request
         Map<String, Object> _parameters = new HashMap<String, Object>() {
-            private static final long serialVersionUID = 4940226750663477583L;
+            private static final long serialVersionUID = 5125275779813442649L;
             {
                     put( "days", Days.toValue(days) );
             }

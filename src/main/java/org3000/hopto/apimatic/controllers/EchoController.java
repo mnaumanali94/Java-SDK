@@ -1,7 +1,7 @@
 /*
  * TesterLib
  *
- * This file was automatically generated for Stamplay by APIMATIC v2.0 ( https://apimatic.io ) on 08/01/2016
+ * This file was automatically generated for Stamplay by APIMATIC v2.0 ( https://apimatic.io ) on 08/03/2016
  */
 package org3000.hopto.apimatic.controllers;
 
@@ -78,7 +78,7 @@ public class EchoController extends BaseController {
 
         //load all headers for the outgoing API request
         Map<String, String> _headers = new HashMap<String, String>() {
-            private static final long serialVersionUID = 5200824509087119218L;
+            private static final long serialVersionUID = 5046682494771647059L;
             {
                     put( "user-agent", "Stamplay SDK" );
                     put( "accept", "application/json" );
@@ -180,7 +180,7 @@ public class EchoController extends BaseController {
 
         //load all headers for the outgoing API request
         Map<String, String> _headers = new HashMap<String, String>() {
-            private static final long serialVersionUID = 4860132953378648437L;
+            private static final long serialVersionUID = 5083831227965933152L;
             {
                     put( "user-agent", "Stamplay SDK" );
                     put( "accept", "application/json" );
@@ -189,7 +189,7 @@ public class EchoController extends BaseController {
 
         //load all fields for the outgoing API request
         Map<String, Object> _parameters = new HashMap<String, Object>() {
-            private static final long serialVersionUID = 5320669713153931557L;
+            private static final long serialVersionUID = 5287976367082932974L;
             {
                     put( "input", input );
             }
@@ -289,7 +289,7 @@ public class EchoController extends BaseController {
 
         //load all headers for the outgoing API request
         Map<String, String> _headers = new HashMap<String, String>() {
-            private static final long serialVersionUID = 5155353118717136185L;
+            private static final long serialVersionUID = 5642203725983186010L;
             {
                     put( "user-agent", "Stamplay SDK" );
                     put( "accept", "application/json" );

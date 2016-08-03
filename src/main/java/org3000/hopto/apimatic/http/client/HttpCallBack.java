@@ -1,7 +1,7 @@
 /*
  * TesterLib
  *
- * This file was automatically generated for Stamplay by APIMATIC BETA v2.0 on 08/01/2016
+ * This file was automatically generated for Stamplay by APIMATIC BETA v2.0 on 08/03/2016
  */
 package org3000.hopto.apimatic.http.client;
 

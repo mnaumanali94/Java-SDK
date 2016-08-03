@@ -1,7 +1,7 @@
 /*
  * TesterLib
  *
- * This file was automatically generated for Stamplay by APIMATIC v2.0 on 08/01/2016
+ * This file was automatically generated for Stamplay by APIMATIC v2.0 on 08/03/2016
  */
 package org3000.hopto.apimatic.controllers;
 
@@ -549,7 +549,7 @@ public class ResponseTypesControllerTest extends ControllerTestBase {
         // Test headers
         Map<String, String> headers = new LinkedHashMap<String, String>();
         headers.put("NauManAli", TestHelper.nullString);
-        headers.put("WaseemHasAn", "is also awesome");
+        headers.put("WaseemHasAn", TestHelper.nullString);
         
         assertTrue("Headers do not match", TestHelper.areHeadersProperSubsetOf(
                 headers, httpResponse.getResponse().getHeaders(), true));

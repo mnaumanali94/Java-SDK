@@ -1,7 +1,7 @@
 /*
  * TesterLib
  *
- * This file was automatically generated for Stamplay by APIMATIC v2.0 ( https://apimatic.io ) on 08/01/2016
+ * This file was automatically generated for Stamplay by APIMATIC v2.0 ( https://apimatic.io ) on 08/03/2016
  */
 package org3000.hopto.apimatic.models;
 
@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class Employee 
         extends Person {
-    private static final long serialVersionUID = 5122432941100977589L;
+    private static final long serialVersionUID = 4772446113204910213L;
     private Person boss;
     private String department;
     private List<Person> dependents;

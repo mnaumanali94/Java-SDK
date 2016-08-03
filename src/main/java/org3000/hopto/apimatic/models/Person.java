@@ -1,7 +1,7 @@
 /*
  * TesterLib
  *
- * This file was automatically generated for Stamplay by APIMATIC v2.0 ( https://apimatic.io ) on 08/01/2016
+ * This file was automatically generated for Stamplay by APIMATIC v2.0 ( https://apimatic.io ) on 08/03/2016
  */
 package org3000.hopto.apimatic.models;
 
@@ -12,7 +12,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 public class Person 
         extends BaseModel
         implements java.io.Serializable {
-    private static final long serialVersionUID = 4813111815654917174L;
+    private static final long serialVersionUID = 4961682459156924446L;
     private String address;
     private long age;
     private String name;
